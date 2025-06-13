@@ -30,6 +30,8 @@ main.exe
 ```
 .\main.exe
 ```
+⚠️ **On Linux, if you encounter a permission issue like `Permission denied: ./main`, simply give the script execution rights by running `chmod 700 main` in the terminal while in the script's directory.**
+
 
 Next, just follow the prompts — it’s simple!  
 Choose the color format you want to convert from by entering a number (for example, enter 1 for Hex).  
